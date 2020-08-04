@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257051833137",
+    "firebase_url": "https://flight-scanner-12c11.firebaseio.com",
+    "project_id": "flight-scanner-12c11",
+    "storage_bucket": "flight-scanner-12c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257051833137:android:d042154d3b33f063303610",
+        "android_client_info": {
+          "package_name": "com.example.flightscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257051833137-uhd416ha82r2kru1d4eksqkhngmeccs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flightscanner",
+            "certificate_hash": "5c54e0e04ef61a1b882a5315c80e0bb8f422f62a"
+          }
+        },
+        {
+          "client_id": "257051833137-qcaud9bimpg848crlfj38pqrjcs19v8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAigvtZVu6kThpa3C2a-XQkLZ_oy62zEaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257051833137-qcaud9bimpg848crlfj38pqrjcs19v8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
